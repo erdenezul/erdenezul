@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bilguun</h1>
+<h1 align="center">Hi 👋, I'm Erdenezul</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erdenezul&label=Profile%20views&color=0e75b6&style=flat" alt="erdenezul" /> </p>
 <!--
 **erdenezul/erdenezul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
