@@ -1,7 +1,9 @@
-import type React from "react";
-import { socialValues } from "./typedefs";
-import styled from "styled-components";
-import { SocialIcon } from "react-social-icons";
+import type React from 'react';
+import { SocialIcon } from 'react-social-icons';
+import styled from 'styled-components';
+
+import { socialValues } from './typedefs';
+
 /**
  * Social buttons components
  */
