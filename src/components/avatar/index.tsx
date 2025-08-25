@@ -1,7 +1,8 @@
 import type React from 'react';
-import styled, { keyframes } from 'styled-components';
 
 import profileImage from '../../assets/zulaa.jpg';
+import styled, { keyframes } from 'styled-components';
+
 import type { AvatarProps } from './typedefs';
 
 /**
@@ -12,7 +13,7 @@ import type { AvatarProps } from './typedefs';
  */
 const Component: React.FC<AvatarProps> = ({
   aos = 'flip-left',
-  aosDuration = '1000',
+  aosDuration = '1000'
 }) => {
   return (
     <Container

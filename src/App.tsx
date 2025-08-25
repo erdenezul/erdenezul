@@ -1,11 +1,11 @@
-import './App.css';
+import { useEffect } from 'react';
 
 import AOS from 'aos';
-import { useEffect } from 'react';
 import styled from 'styled-components';
 
-import Avatar from './components/avatar';
+import { Avatar } from '@ez/components';
 
+import './App.css';
 import 'aos/dist/aos.css';
 
 function App() {

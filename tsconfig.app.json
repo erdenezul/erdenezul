@@ -7,6 +7,12 @@
       "DOM",
       "DOM.Iterable"
     ],
+    "baseUrl": "./src",
+    "paths": {
+      "@ez/components": [
+        "components/index"
+      ]
+    },
     "module": "ESNext",
     "skipLibCheck": true,
     /* Bundler mode */
