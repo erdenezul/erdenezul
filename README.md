@@ -1,4 +1,81 @@
-<h1 align="center">Hi 👋, I'm Erdenezul Batmunkh</h1>
+<!--
+  💡 Tip: create a repo named EXACTLY your GitHub username and put this as README.md
+  It will show on your profile page.
+-->
+
+<h1 align="center">Hey, I'm Erdenezul Batmunkh 👋</h1>
+
+<p align="center">
+  <a href="https://github.com/erdenezul"><img alt="GitHub followers" src="https://img.shields.io/github/followers/erdenezul?style=for-the-badge&logo=github"></a>
+  <a href="https://x.com/erd3n3zul"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/erd3n3zul?style=for-the-badge&logo=x"></a>
+  <a href="https://www.linkedin.com/in/erdenezul-batmunkh-99378a21/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:erdenezulb@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-Say%20Hi!-orange?style=for-the-badge&logo=gmail"></a>
+</p>
+
+---
+
+### 👨‍💻 About me
+- 🔭 I’m currently working on: **<current project / company>**
+- 🌱 Learning: **<tech or topic>**
+- 💬 Ask me about: **<expertise / interests>**
+- 🌍 Based in:  🏙️ **Berlin, Germany** 🇩🇪
+- ⚡ Fun fact: **<something fun>**
+
+---
+
+### 🛠 Tech Stack
+<p>
+  <!-- Core -->
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61dafb&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Styled--Components-DB7093?logo=styled-components&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AOS-000000?logo=aos&logoColor=white&style=for-the-badge" />
+</p>
+
+---
+
+### 📌 Featured Projects
+- **[Project 1 — <name>](https://github.com/<your-username>/<repo>)**  
+  <short one-liner about what it does, tech used, link to demo if any>
+
+- **[Project 2 — <name>](https://github.com/<your-username>/<repo>)**  
+  <short one-liner>
+
+- **[Project 3 — <name>](https://github.com/<your-username>/<repo>)**  
+  <short one-liner>
+
+---
+
+### 📈 GitHub Stats
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=transparent&hide_title=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&theme=transparent&hide_title=true" />
+</p>
+
+---
+
+### ✍️ Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- <a href="https://<your-blog>/post-1">Post title 1</a>
+- <a href="https://<your-blog>/post-2">Post title 2</a>
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+### 🤝 Let’s connect
+- Portfolio: https://<your-site>  
+- LinkedIn: https://www.linkedin.com/in/<your-linkedin>/  
+- Twitter/X: https://twitter.com/<your-twitter>  
+- Email: <you>@email.com
+h1 align="center">Hi 👋, I'm Erdenezul Batmunkh</h1>
 <h3 align="center">A passionate Software Engineer and open source contributor</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erdenezul&label=Profile%20views&color=0e75b6&style=flat" alt="erdenezul" /> </p>
