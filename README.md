@@ -15,7 +15,7 @@
 ---
 
 ### 👨‍💻 About me
-- 🔭 I’m currently working on: **<current project / company>**
+- 🔭 I’m currently working on: **<3T Software Labs GmbH>**
 - 🌱 Learning: **<tech or topic>**
 - 💬 Ask me about: **<expertise / interests>**
 - 🌍 Based in:  🏙️ **Berlin, Germany** 🇩🇪
